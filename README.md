@@ -234,4 +234,4 @@ This repository serves as the official landing page for Emsisoft Emergency Kit. 
 **Get the most recent version of Emsisoft Emergency Kit today!**
 
 ---
-**Last updated:** 2026-09-08 23:07:07 UTC
+**Last updated:** 2026-09-09 02:42:00 UTC
